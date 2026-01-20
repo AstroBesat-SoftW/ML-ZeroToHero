@@ -6,6 +6,8 @@ Yakında...
 
 ## 👨‍💻 Contributors
 
+/-/
+
 | Avatar | Name | Role / Field |
 |------|------|--------------|
 | <img src="https://avatars.githubusercontent.com/u/USERNAME1?v=4" width="80"/> | **Name Surname** | Machine Learning Engineer |
