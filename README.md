@@ -1,7 +1,7 @@
 # ML-ZeroToHero mRNA
 From zero to hero in Machine Learning — hands-on projects, clear explanations, real-world examples.
 
-Yakında...
+Yakında... gelecek
 ⌛️⏳
 
 ## 👨‍💻 Contributors
